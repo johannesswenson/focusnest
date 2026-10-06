@@ -28,6 +28,12 @@ The project combines task management, notes, and focus sessions into one applica
 * Structured JSON error responses
 * Custom `TaskNotFoundException`
 
+### Testing
+
+* Unit tests with JUnit 5 and Mockito
+* API/integration tests with Spring Boot Test
+* Validation and error handling tests
+
 ### Planned features
 
 * Notes
@@ -38,7 +44,6 @@ The project combines task management, notes, and focus sessions into one applica
 * Statistics
 * Authentication and users
 * Frontend application
-* Automated test coverage
 
 ## Tech Stack
 
